@@ -5,7 +5,7 @@ body {
 	background-repeat: no-repeat; /* Do not repeat the image */
 	background-size: cover;
 	background-image: url(kon2.jpg);
-	
+	overflow:hidden;
 }
 #profile-image {
   height: 150px;
