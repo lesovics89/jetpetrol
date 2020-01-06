@@ -5,7 +5,7 @@
   background-position: center; /* Center the image */
 	background-repeat: no-repeat; /* Do not repeat the image */
 	background-size: cover;
-	background-image: url(kon2.jpg);
+	background-image: url(https://i.imgur.com/noYYksk.jpg);
 	 background-attachment: fixed;
 	
 }
@@ -95,15 +95,12 @@ body {
 	background-color: #000000; /* Used if the image is unavailable */
 	/* You must set a specified height */
   background-position: center; /* Center the image */
-	background-repeat: no-repeat; /* Do not repeat the image */
-	background-size: cover;
-	background-image: url(back.jpg);
-	 background-attachment: fixed;
-	 margin-top: 15rem;
+	background-repeat: repeat; /* Do not repeat the image */
+	background-image: url();
+	
+	 
+	 
 }
 
 
 }
-
-
-
