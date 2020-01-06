@@ -75,6 +75,22 @@ color:#FCFCFC;
   filter: grayscale(10%);
   
 }
+@font-face {
+    font-family: myFirstFont;
+    src: url("idid.ttf");
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
 
 
 
